@@ -203,14 +203,15 @@ nav {
   line-height: 1;
   padding: 0.6315789474em 0.3157894737em; /* ~ 12px 6px @ 19px/em */
   color: #333;
-  background-color: #93A341;
+  background-color: #8db4ef;
   border-bottom: 0;
 }
 
 #calendar #nav-cal a,
 #projects #nav-pro a,
 #policies #nav-pol a,
-#due_date #nav-dat a {
+#due_date #nav-dat a
+#link2    #nav-lnk a, {
   background-color: #FFCE0B;
 }
 
