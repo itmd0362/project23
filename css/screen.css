@@ -258,7 +258,7 @@ nav {
 }
 
 .preview {
-  background-color: #93A341;
+  background-color: #8db4ef;
   color: #222;
   padding-top: 1.2631578947em;
   margin-right: -11.3208%; /* 60px / 530px (650-120) */
@@ -276,7 +276,7 @@ nav {
   margin-left: -11.3208%;
 }
 .preview .assigned {
-  background-color: #59453C;
+  background-color: #6daaa5;
   color: #EEE;
 }
 .preview .assigned small {
@@ -308,11 +308,11 @@ table {
   margin-bottom: 1em;
 }
 table, th, td {
-	border: 1px solid #59453C;
+	border: 1px solid #6daaa5;
 	padding: 0px 10px;
 }
 .tablehead {
-	background-color: #93A341;
+	background-color: #8db4ef;
 	text-align: center;
   font-weight: 700;
 }
@@ -456,9 +456,7 @@ td {
     padding-left: 14.28571429%; /* 93/651 */
     padding-right: 28.57142857%; /* 186/651 */
   }
-  .tagline,
-  .fineprint {
-  }
+  
   nav {
     width: 57.14285714%;
     left: 14.28571429%;
